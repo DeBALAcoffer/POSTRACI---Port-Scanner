@@ -7,7 +7,7 @@
 
 [![C++](https://img.shields.io/badge/C%2B%2B-26-blue.svg)](https://isocpp.org/)
 [![Boost](https://img.shields.io/badge/Boost-Asio-orange.svg)](https://www.boost.org/)
-[![CMake](https://img.shields.io/badge/CMake-3.14+-green.svg)](https://cmake.org/)
+[![CMake](https://img.shields.io/badge/CMake-3.31+-green.svg)](https://cmake.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Author:** [DeBALA](https://github.com/DeBALAcoffer)
