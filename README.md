@@ -39,7 +39,7 @@ Whether you're doing network reconnaissance, security auditing, or just explorin
 | Language | C++ |
 | Networking | Boost.Asio |
 | CLI Parsing | Boost.Program_options |
-| Build System | CMake 3.14+ |
+| Build System | CMake 3.31+ |
 | Threading | std::thread (C++) |
 
 ## 📦 Installation
